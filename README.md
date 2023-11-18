@@ -9,3 +9,4 @@ I'm currently working on the executor ui.
 
 Some other details:
 llai stands for loadlibA injection, I just made some code so i need to call just one function to inject a dll.
+Use the filters of visual studio because it's better, if you see the files, they're not in directories because i put  them into filters of visual studio
