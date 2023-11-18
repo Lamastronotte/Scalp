@@ -1,4 +1,7 @@
 # Scalp
+
+I'm working on that project and it's not finished now
+
 Scalp is an injector and executor for roblox
 
 I'm using ImGui with c++ for this project.
