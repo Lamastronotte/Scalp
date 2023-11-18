@@ -6,3 +6,6 @@ Currently to inject dlls i'm using LoadLibA but i'm finding a way to use manual 
 I did some of the Ui but not everything.
 
 I'm currently working on the executor ui.
+
+Some other details:
+llai stands for loadlibA injection, I just made some code so i need to call just one function to inject a dll.
